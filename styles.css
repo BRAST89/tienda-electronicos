@@ -1,0 +1,32 @@
+body{
+    background: rgb(211,232,232);
+    background: radial-gradient(circle, rgba(211,232,232,1) 16%, rgba(243,247,247,1) 40%, rgba(198,226,225,1) 68%, rgba(126,144,144,1) 72%, rgba(149,202,200,1) 75%, rgba(156,205,204,1) 79%, rgba(128,146,146,1) 85%, rgba(112,128,128,1) 88%, rgba(58,66,66,1) 98%);
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    text-align: right;
+    width: 400px;
+    height: 400px;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+button{
+    text-align: center;
+}
+form{
+    text-align: center;
+    width: 690px;
+}
+input{
+    text-align: center;
+}
